@@ -7,4 +7,4 @@ Usando HTML e CSS apenas!
 Visualização do projeto final:
 <br/>
 <br/>
-![Thebosu](https://user-images.githubusercontent.com/97799788/184231439-9337704d-385d-48cf-bb3a-93eb1230b9fa.png)
+![Captura de tela 2023-04-25 163427](https://user-images.githubusercontent.com/127504003/234385095-edede963-50be-4221-b8ff-4f1bcbb633d2.png)
